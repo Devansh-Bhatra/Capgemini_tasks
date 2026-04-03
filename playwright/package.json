@@ -10,9 +10,13 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
+    "@types/jest": "^30.0.0",
     "@types/node": "^25.3.0"
   },
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "chai": "^6.2.2",
+    "exceljs": "^4.4.0",
+    "jest": "^30.3.0",
+    "mocha": "^7.2.0"
   }
 }
